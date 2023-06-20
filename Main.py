@@ -110,7 +110,7 @@ with st.sidebar:
         menu_title="Navigaton",  # required
         options=["Home","---","Upload", "View/Modify", "---", "About"],  # required
         icons=["house","", "upload","binoculars",  "", "envelope"],  # optional
-        menu_icon="youtube",  # optional
+        menu_icon="person-vcard",  # optional
         default_index=0,  # optional
         styles={"nav-link": {"--hover-color": "brown"}},
         orientation="vertical",
@@ -131,7 +131,7 @@ if selected == 'Home':
                 "saving you time and effort.</p>__"
                 "<br>"
                 "__<p>Not only does our BizCard Project offer a streamlined approach to managing contacts, "
-                "but it also provides a cost-effective solution. Eliminating the need for physical storage and "
+                "but it eliminating the need for physical storage and "
                 "reducing the risk of losing important cards, our digital database ensures that your valuable "
                 "connections are preserved for the long term.</p>__ "
                 "<br>"
