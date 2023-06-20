@@ -31,7 +31,6 @@ Start scanning, start connecting, and start building lasting relationships with 
 📜About:<br><br>
   This tab will help you to understand what are the package and application used to develop this project.
   
-  
-  
-  
+# Demo video:
+https://www.linkedin.com/posts/selvamani-a-795580266_datascience-business-data-activity-7076847364191252481-rGHd?utm_source=share&utm_medium=member_desktop
   
